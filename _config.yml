@@ -6,7 +6,7 @@ description: Welcome To My Home!
 avatarTitle: Steve Sun
 # 头像里面的描述
 avatarDesc: Java / 电脑日常
-url: "http://SteveSun.io"
+url: "https://stevesnj.github.io"
 
 # Comment
 comment:
@@ -15,6 +15,7 @@ comment:
 # Social
 social:
     github: SteveSnj
+    mail: cyhxsnj@163.com
 #    weibo:
 #    jianshu:
 
@@ -25,7 +26,6 @@ baidu:
 
 # Google Analytics
 ga:
-    id: xxxx
     host: auto
 
 permalink: /:year/:month/:title/
